@@ -1,2 +1,2 @@
 # Nreal-TicTacToe
- Phonton PUN2 Board game Simple turn based
+ Photon PUN2 Board game Simple turn based
